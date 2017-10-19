@@ -1,0 +1,411 @@
+Switching to fully guarded memory allocator.
+
+Note: No (valid) 'D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\config\startup.blend' found, fall back to built-in default.
+
+read file 
+  Version 272 sub 2 date unknown hash unknown
+
+ordered
+ OBCube
+ OBLamp
+ OBCamera
+ED_screen_refresh: set screen
+found bundled python: D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\python
+FRS_set_context: context 0x00000000029B15E8 scene 0x0000000004317E28
+time bl_operators 0.0300
+time bl_ui 0.0800
+time keyingsets_builtins 0.0100
+time nodeitems_builtins 0.0100
+	addon_utils.enable io_scene_3ds
+	addon_utils.enable io_scene_fbx
+	addon_utils.enable io_anim_bvh
+	addon_utils.enable io_mesh_ply
+	addon_utils.enable io_scene_obj
+	addon_utils.enable io_scene_x3d
+	addon_utils.enable io_mesh_stl
+	addon_utils.enable io_mesh_uv_layout
+	addon_utils.enable io_curve_svg
+	addon_utils.enable cycles
+Python Script Load Time 0.2500
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\add_advanced_objects_menu\__init__.py add_advanced_objects_menu
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\add_advanced_objects_panels\__init__.py add_advanced_objects_panels
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\add_curve_extra_objects\__init__.py add_curve_extra_objects
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\add_curve_ivygen.py add_curve_ivygen
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\add_curve_sapling\__init__.py add_curve_sapling
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\add_mesh_BoltFactory\__init__.py add_mesh_BoltFactory
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\add_mesh_extra_objects\__init__.py add_mesh_extra_objects
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\animation_add_corrective_shape_key.py animation_add_corrective_shape_key
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\animation_animall.py animation_animall
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\ant_landscape\__init__.py ant_landscape
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\archimesh\__init__.py archimesh
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\archipack\__init__.py archipack
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\blender_id\__init__.py blender_id
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\bone_selection_sets.py bone_selection_sets
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\btrace\__init__.py btrace
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\camera_dolly_crane_rigs.py camera_dolly_crane_rigs
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\camera_turnaround.py camera_turnaround
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\curve_simplify.py curve_simplify
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\cycles\__init__.py cycles
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\development_api_navigator.py development_api_navigator
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\development_edit_operator.py development_edit_operator
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\development_icon_get.py development_icon_get
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\development_iskeyfree.py development_iskeyfree
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\development_ui_classes.py development_ui_classes
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\game_engine_publishing.py game_engine_publishing
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\game_engine_save_as_runtime.py game_engine_save_as_runtime
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_anim_acclaim\__init__.py io_anim_acclaim
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_anim_bvh\__init__.py io_anim_bvh
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_anim_c3d\__init__.py io_anim_c3d
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_anim_camera.py io_anim_camera
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_anim_nuke_chan\__init__.py io_anim_nuke_chan
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_blend_utils\__init__.py io_blend_utils
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_coat3D\__init__.py io_coat3D
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_convert_image_to_mesh_img\__init__.py io_convert_image_to_mesh_img
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_curve_svg\__init__.py io_curve_svg
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_export_after_effects.py io_export_after_effects
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_export_dxf\__init__.py io_export_dxf
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_export_paper_model.py io_export_paper_model
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_export_pc2.py io_export_pc2
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_export_unreal_psk_psa.py io_export_unreal_psk_psa
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_import_dxf\__init__.py io_import_dxf
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_import_gimp_image_to_scene.py io_import_gimp_image_to_scene
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_import_images_as_planes.py io_import_images_as_planes
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_import_scene_lwo.py io_import_scene_lwo
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_import_scene_unreal_psa_psk.py io_import_scene_unreal_psa_psk
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_mesh_pdb\__init__.py io_mesh_pdb
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_mesh_ply\__init__.py io_mesh_ply
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_mesh_raw\__init__.py io_mesh_raw
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_mesh_stl\__init__.py io_mesh_stl
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_mesh_uv_layout\__init__.py io_mesh_uv_layout
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_online_sketchfab\__init__.py io_online_sketchfab
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_scene_3ds\__init__.py io_scene_3ds
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_scene_fbx\__init__.py io_scene_fbx
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_scene_ms3d\__init__.py io_scene_ms3d
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_scene_obj\__init__.py io_scene_obj
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_scene_vrml2\__init__.py io_scene_vrml2
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_scene_x\__init__.py io_scene_x
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_scene_x3d\__init__.py io_scene_x3d
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_sequencer_edl\__init__.py io_sequencer_edl
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\io_shape_mdd\__init__.py io_shape_mdd
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\light_field_tools\__init__.py light_field_tools
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\lighting_dynamic_sky.py lighting_dynamic_sky
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\materials_library_vx\__init__.py materials_library_vx
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\materials_utils\__init__.py materials_utils
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\measureit\__init__.py measureit
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\mesh_auto_mirror.py mesh_auto_mirror
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\mesh_bsurfaces.py mesh_bsurfaces
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\mesh_carver.py mesh_carver
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\mesh_custom_normals_tools.py mesh_custom_normals_tools
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\mesh_extra_tools\__init__.py mesh_extra_tools
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\mesh_f2.py mesh_f2
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\mesh_inset\__init__.py mesh_inset
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\mesh_looptools.py mesh_looptools
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\mesh_relax.py mesh_relax
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\mesh_snap_utilities_line.py mesh_snap_utilities_line
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\mesh_tiny_cad\__init__.py mesh_tiny_cad
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\mesh_tissue\__init__.py mesh_tissue
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\mocap\__init__.py mocap
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\netrender\__init__.py netrender
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\node_wrangler.py node_wrangler
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\object_animrenderbake.py object_animrenderbake
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\object_boolean_tools.py object_boolean_tools
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\object_cloud_gen.py object_cloud_gen
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\object_edit_linked.py object_edit_linked
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\object_fracture\__init__.py object_fracture
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\object_fracture_cell\__init__.py object_fracture_cell
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\object_fracture_crack\__init__.py object_fracture_crack
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\object_grease_scatter.py object_grease_scatter
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\object_print3d_utils\__init__.py object_print3d_utils
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\object_skinify.py object_skinify
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\oscurart_tools\__init__.py oscurart_tools
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\paint_palette.py paint_palette
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\pie_menus_official\__init__.py pie_menus_official
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\render_auto_tile_size.py render_auto_tile_size
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\render_clay.py render_clay
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\render_copy_settings\__init__.py render_copy_settings
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\render_freestyle_svg.py render_freestyle_svg
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\render_povray\__init__.py render_povray
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\rigify\__init__.py rigify
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\sequencer_kinoraw_tools\__init__.py sequencer_kinoraw_tools
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\space_clip_editor_autotracker.py space_clip_editor_autotracker
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\space_clip_editor_refine_solution.py space_clip_editor_refine_solution
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\space_view3d_3d_navigation.py space_view3d_3d_navigation
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\space_view3d_brush_menus\__init__.py space_view3d_brush_menus
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\space_view3d_copy_attributes.py space_view3d_copy_attributes
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\space_view3d_display_tools\__init__.py space_view3d_display_tools
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\space_view3d_math_vis\__init__.py space_view3d_math_vis
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\space_view3d_modifier_tools.py space_view3d_modifier_tools
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\space_view3d_pie_menus\__init__.py space_view3d_pie_menus
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\space_view3d_spacebar_menu.py space_view3d_spacebar_menu
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\space_view3d_stored_views\__init__.py space_view3d_stored_views
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\sverchok-master\__init__.py sverchok-master
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\system_blend_info.py system_blend_info
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\system_demo_mode\__init__.py system_demo_mode
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\system_property_chart.py system_property_chart
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\ui_layer_manager.py ui_layer_manager
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\ui_translate\__init__.py ui_translate
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\uv_bake_texture_to_vcols.py uv_bake_texture_to_vcols
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\uv_magic_uv\__init__.py uv_magic_uv
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons\uv_texture_atlas.py uv_texture_atlas
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\add_dimension.py add_dimension
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\add_mesh_castle\__init__.py add_mesh_castle
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\add_mesh_clusters\__init__.py add_mesh_clusters
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\add_mesh_icicle_snowflake\__init__.py add_mesh_icicle_snowflake
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\add_mesh_rocks\__init__.py add_mesh_rocks
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\add_mesh_space_tree\__init__.py add_mesh_space_tree
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\amaranth\__init__.py amaranth
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\animation_motion_trail.py animation_motion_trail
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\animation_text_types.py animation_text_types
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\automat\__init__.py automat
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\cacharanth\__init__.py cacharanth
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\camera_overscan.py camera_overscan
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\cmu_mocap_browser\__init__.py cmu_mocap_browser
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\curve_tools\__init__.py curve_tools
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\data_overrides\__init__.py data_overrides
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\development_class_viewer.py development_class_viewer
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_atomblend_utilities\__init__.py io_atomblend_utilities
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_directx_bel\__init__.py io_directx_bel
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_export_marmalade.py io_export_marmalade
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_export_md3.py io_export_md3
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_import_BrushSet.py io_import_BrushSet
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_import_LRO_Lola_MGS_Mola_img.py io_import_LRO_Lola_MGS_Mola_img
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_import_lipSync_Importer.py io_import_lipSync_Importer
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_import_sound_to_anim.py io_import_sound_to_anim
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_import_voodoo_camera.py io_import_voodoo_camera
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_mesh_gwyddion\__init__.py io_mesh_gwyddion
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_mesh_xyz\__init__.py io_mesh_xyz
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_points_pcd\__init__.py io_points_pcd
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_scene_cod\__init__.py io_scene_cod
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_scene_fpx\__init__.py io_scene_fpx
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_scene_map\__init__.py io_scene_map
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_scene_open_street_map.py io_scene_open_street_map
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\io_vector\__init__.py io_vector
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\lamp_geographical_sun.py lamp_geographical_sun
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\lighting_hdri_shortcut\__init__.py lighting_hdri_shortcut
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\mesh_border_deselect_outer.py mesh_border_deselect_outer
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\mesh_copy_uvs_from_joined.py mesh_copy_uvs_from_joined
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\mesh_extrude_along_curve.py mesh_extrude_along_curve
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\mesh_insert_edge_ring.py mesh_insert_edge_ring
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\mesh_ktools.py mesh_ktools
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\mesh_selectbuffer.py mesh_selectbuffer
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\mesh_show_vgroup_weights.py mesh_show_vgroup_weights
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\mesh_xoffsets.py mesh_xoffsets
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\node_presets.py node_presets
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\np_station\__init__.py np_station
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\object_batch_rename_datablocks.py object_batch_rename_datablocks
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\object_color_rules.py object_color_rules
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\object_creaprim.py object_creaprim
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\object_facemap_auto\__init__.py object_facemap_auto
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\object_mesh_versions.py object_mesh_versions
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\object_particle_hair_lab.py object_particle_hair_lab
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\object_particle_hair_net.py object_particle_hair_net
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\oscurart_futurism.py oscurart_futurism
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\oscurart_mesh_cache_tools.py oscurart_mesh_cache_tools
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\oscurart_mesh_thread.py oscurart_mesh_thread
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\oscurart_worn_edges_map.py oscurart_worn_edges_map
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\render_auto_save.py render_auto_save
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\render_cube_map.py render_cube_map
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\render_notify.py render_notify
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\render_renderslot.py render_renderslot
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\render_shots.py render_shots
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\render_time.py render_time
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\render_to_print.py render_to_print
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\sequencer_tools\__init__.py sequencer_tools
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\space_view3d_add_surround_cameras.py space_view3d_add_surround_cameras
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\space_view3d_align_tools.py space_view3d_align_tools
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\space_view3d_cursor_control\__init__.py space_view3d_cursor_control
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\space_view3d_enhanced_3d_cursor.py space_view3d_enhanced_3d_cursor
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\space_view3d_game_props_visualiser.py space_view3d_game_props_visualiser
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\space_view3d_library_hide.py space_view3d_library_hide
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\space_view3d_manipulator_Menu.py space_view3d_manipulator_Menu
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\space_view3d_paint_bprojection.py space_view3d_paint_bprojection
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\space_view3d_panel_measure.py space_view3d_panel_measure
+fake_module D:\tmp\blender-2.79.0-git.c64e515-windows64\2.79\scripts\addons_contrib\space_view3d_quickPrefs.pybpy.ops.wm.splash()
+WM_operator_last_properties_store: storing properties for 'WM_OT_splash'
+Thread 0: update object OBCamera
+recalcob Camera
+Thread 0: update object OBLamp
+recalcob Lamp
+Thread 0: update object OBCube
+recalcob Cube
+recalcdata Cube
+Thread 0: total 3 objects in 0.009516 sec.
+  Camera in 0.000797 sec
+  Lamp in 0.000005 sec
+  Cube in 0.008715 sec
+Thread 1: total 0 objects in 0.000000 sec.
+Thread 2: total 0 objects in 0.000000 sec.
+Thread 3: total 0 objects in 0.000000 sec.
+Scene updated 3 objects in 0.009582 sec
+ghost_event_proc: window 1 state = normal
+ED_screen_refresh: set screen
+ghost_event_proc: ghost redraw 1
+ghost_event_proc: ghost redraw 1
+
+wm_event_do_handlers: Handling event
+wmEvent  type:272 / TIMER, val:0 / NOTHING,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(906,7), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7AD8
+
+wm_event_do_handlers: Handling event
+wmEvent  type:272 / TIMER, val:0 / NOTHING,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(906,7), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7B98
+
+wm_event_do_handlers: Handling event
+wmEvent  type:218 / ESC, val:1 / PRESS,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(716,204), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7B98
+
+wm_event_do_handlers: Handling event
+wmEvent  type:218 / ESC, val:2 / RELEASE,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(703,242), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7B98
+
+wm_event_do_handlers: Handling event
+wmEvent  type:212 / LEFT_CTRL, val:1 / PRESS,
+         shift:0, ctrl:1, alt:0, oskey:0, keymodifier:0,
+         mouse:(707,249), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7AD8
+
+wm_event_do_handlers: Handling event
+wmEvent  type:213 / LEFT_ALT, val:1 / PRESS,
+         shift:0, ctrl:1, alt:3, oskey:0, keymodifier:0,
+         mouse:(707,249), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7AD8
+
+wm_event_do_handlers: Handling event
+wmEvent  type:117 / U, val:1 / PRESS,
+         shift:0, ctrl:1, alt:3, oskey:0, keymodifier:0,
+         mouse:(707,249), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7AD8
+ED_screen_refresh: set screen
+bpy.ops.screen.userpref_show()
+WM_operator_last_properties_store: storing properties for 'SCREEN_OT_userpref_show'
+wm_handlers_do_intern:       handled! 'SCREEN_OT_userpref_show'
+ghost_event_proc: window 2 state = normal
+wm_window_make_drawable: set drawable 1
+ED_screen_refresh: set screen
+wm_window_make_drawable: set drawable 2
+ED_screen_refresh: set screen
+ghost_event_proc: ghost redraw 2
+ghost_event_proc: ghost redraw 2
+ghost_event_proc: ghost redraw 1
+wm_window_make_drawable: set drawable 1
+
+wm_event_do_handlers: Handling event
+wmEvent  type:260 / WINDOW_DEACTIVATE, val:1 / PRESS,
+         shift:0, ctrl:1, alt:3, oskey:0, keymodifier:117,
+         mouse:(707,249), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7A18
+
+wm_event_do_handlers: Handling event
+wmEvent  type:117 / U, val:2 / RELEASE,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(707,249), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7DD8
+wm_window_make_drawable: set drawable 2
+
+wm_event_do_handlers: Handling event
+wmEvent  type:272 / TIMER, val:0 / NOTHING,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(392,249), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7E98
+wm_window_make_drawable: set drawable 1
+wm_window_make_drawable: set drawable 2
+
+wm_event_do_handlers: Handling event
+wmEvent  type:1 / LEFTMOUSE, val:1 / PRESS,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(418,469), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7E98
+wm_window_make_drawable: set drawable 1
+wm_window_make_drawable: set drawable 2
+
+wm_event_do_handlers: Handling event
+wmEvent  type:1 / LEFTMOUSE, val:2 / RELEASE,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(418,469), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7E98
+
+wm_event_do_handlers: Handling event
+wmEvent  type:272 / TIMER, val:0 / NOTHING,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(418,469), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7C58
+
+wm_event_do_handlers: Handling event
+wmEvent  type:1 / LEFTMOUSE, val:1 / PRESS,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(104,423), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7C58
+
+wm_event_do_handlers: Handling event
+wmEvent  type:1 / LEFTMOUSE, val:2 / RELEASE,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(104,423), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7C58
+
+wm_event_do_handlers: Handling event
+wmEvent  type:115 / S, val:1 / PRESS,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(103,424), ascii:'s', utf8:'s', keymap_idname:(null), pointer:000000000B5E7C58
+DAG_id_tag_update_ex: id=WMWinMan flag=7
+wm_window_make_drawable: set drawable 1
+wm_window_make_drawable: set drawable 2
+
+wm_event_do_handlers: Handling event
+wmEvent  type:272 / TIMER, val:0 / NOTHING,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(102,424), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7D18
+
+wm_event_do_handlers: Handling event
+wmEvent  type:115 / S, val:2 / RELEASE,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(102,424), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7D18
+
+wm_event_do_handlers: Handling event
+wmEvent  type:118 / V, val:1 / PRESS,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(101,424), ascii:'v', utf8:'v', keymap_idname:(null), pointer:000000000B5E7D18
+DAG_id_tag_update_ex: id=WMWinMan flag=7
+wm_window_make_drawable: set drawable 1
+wm_window_make_drawable: set drawable 2
+
+wm_event_do_handlers: Handling event
+wmEvent  type:272 / TIMER, val:0 / NOTHING,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(100,425), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7D18
+
+wm_event_do_handlers: Handling event
+wmEvent  type:118 / V, val:2 / RELEASE,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(100,425), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7D18
+
+wm_event_do_handlers: Handling event
+wmEvent  type:101 / E, val:1 / PRESS,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(99,425), ascii:'e', utf8:'e', keymap_idname:(null), pointer:000000000B5E7D18
+DAG_id_tag_update_ex: id=WMWinMan flag=7
+wm_window_make_drawable: set drawable 1
+wm_window_make_drawable: set drawable 2
+
+wm_event_do_handlers: Handling event
+wmEvent  type:114 / R, val:1 / PRESS,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:101,
+         mouse:(99,426), ascii:'r', utf8:'r', keymap_idname:(null), pointer:000000000B5E7D18
+DAG_id_tag_update_ex: id=WMWinMan flag=7
+wm_window_make_drawable: set drawable 1
+wm_window_make_drawable: set drawable 2
+
+wm_event_do_handlers: Handling event
+wmEvent  type:101 / E, val:2 / RELEASE,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(99,426), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7D18
+
+wm_event_do_handlers: Handling event
+wmEvent  type:114 / R, val:2 / RELEASE,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(98,426), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7D18
+
+wm_event_do_handlers: Handling event
+wmEvent  type:1 / LEFTMOUSE, val:1 / PRESS,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(205,417), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7C58
+
+wm_event_do_handlers: Handling event
+wmEvent  type:1 / LEFTMOUSE, val:2 / RELEASE,
+         shift:0, ctrl:0, alt:0, oskey:0, keymodifier:0,
+         mouse:(205,417), ascii:' ', utf8:'', keymap_idname:(null), pointer:000000000B5E7C58
+ghost_event_proc: window 2 state = normal
+win move event pos 322 53 size 800 480
+w
